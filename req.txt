@@ -1,0 +1,30 @@
+pip install numpy
+
+pip install pandas
+
+pip install matplotlib
+
+pip install matplotlib.pyplot
+
+pip install pandas_datareader
+
+pip install tensor
+
+pip install tensorflow
+
+pip install keras
+
+pip install keras.models
+
+pip install streamlit
+
+pip install sklearn
+
+pip install sklearn.preprocessing
+
+pip install pywhatkit
+
+pip install matplotlib.pylab
+
+pip install plotly
+
