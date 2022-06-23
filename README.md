@@ -20,4 +20,5 @@ Languages Used: Python
 
 How to run:
 Install required libs from req.txt
+
 Open Terminal  & run "streamlit run app.py"
