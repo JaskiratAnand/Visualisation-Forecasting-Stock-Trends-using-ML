@@ -1,6 +1,6 @@
 # Visualisation-Forecasting-Stock-Trends-using-ML
 
-WebApp helps users to view stocks data through Yahoo Finance & predicts their future based on past performance using a trained ML Model.
+WebApp helps users to view stocks data through Yahoo Finance & predicts their future based on past performance using a trained LSTM Model.
 
 Libraries Used: Kreas Models, Matplotlib, Pandas, Streamlit 
 Languages Used: Python
